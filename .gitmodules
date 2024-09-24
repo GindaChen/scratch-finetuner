@@ -1,3 +1,6 @@
-[submodule "LLM-Workshop"]
-	path = LLM-Workshop
+[submodule "third-party/transformers"]
+	path = third-party/transformers
+	url = https://github.com/huggingface/transformers.git
+[submodule "third-party/LLM-Workshop"]
+	path = third-party/LLM-Workshop
 	url = https://github.com/GindaChen/LLM-Workshop
