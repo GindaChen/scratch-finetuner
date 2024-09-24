@@ -43,3 +43,7 @@ function hereactivate() {
     return 1
 }
 alias lmodels='ls ~/.cache/huggingface/hub/ | grep -v "^tmp" | sed "s/^models--//; s/--/\//g"'
+
+# git config --global user.email "32371474+GindaChen@users.noreply.github.com"
+# git config --global user.name "GindaChen"
+# git config oh-my-zsh.hide-status 1
