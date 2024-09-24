@@ -1,0 +1,3 @@
+[submodule "LLM-Workshop"]
+	path = LLM-Workshop
+	url = https://github.com/GindaChen/LLM-Workshop
